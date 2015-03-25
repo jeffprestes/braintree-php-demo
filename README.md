@@ -1,2 +1,2 @@
-# braintree-php-demo
+# Braintre PHP SDK Demo
 Simple demo using Braintree PHP SDK
